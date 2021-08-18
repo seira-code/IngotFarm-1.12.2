@@ -1,0 +1,12 @@
+name: IngotFarm
+version: ${project.version}
+main: grief.gorilla.ingotfarm.IngotFarm
+prefix: [ DI ]
+authors: [ seira ]
+description: Алмазный Слиток + Хорус
+commands:
+  aingotfarm:
+    usage: /aingotfarm
+    description: Включает автофарм хорусов Слитком Хорусов
+    aliases:
+      - aif
